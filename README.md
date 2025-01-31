@@ -1,1 +1,1 @@
-# Jogo-de-Cartas-did-tico---Phyton
+# Jogo de Cartas Didático -Python e Matemática
