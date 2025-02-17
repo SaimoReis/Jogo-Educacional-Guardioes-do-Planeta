@@ -2,10 +2,16 @@
   
 
 Projeto de Produção de Material Didático
+Alunos: Saimo Nascimento dos Reis - 222012783 / Shayla Chrystin dos Santos Silva
+
 Componente curricular - Desenvolvimento de Sistemas Para Web
+
 Ano/Série - Ensino Técnico 
+
 Turno - Vespertino
+
 Escola - Instituto Federal de Brasília (IFB)
+
 
 Jogo de cartas didático focado na resolução de problemas ambientais a partir de fundamentos computacionais e matemáticos 
 
