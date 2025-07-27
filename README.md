@@ -7,7 +7,7 @@
 
 👥 **Alunos:**  
 - Saimo Nascimento dos Reis — 222012783  
-- Shayla Chrystin dos Santos Silva
+- Shayla Chrystin dos Santos Silva - 212004957
 
 ---
 
@@ -119,8 +119,8 @@ Também abrange habilidades específicas de **Matemática**, **Ciências** e **T
 - EF05MA12: Quatro operações  
 - EF06MA18: Análise e interpretação de dados  
 - EF07MA14: Teoria dos conjuntos  
-- EF08MA25: Funções exponenciais  
-- ... e mais!
+- EF08MA25: Funções exponenciais
+- 
 
 </details>
 
@@ -130,7 +130,7 @@ Também abrange habilidades específicas de **Matemática**, **Ciências** e **T
 - EF05CI08: Uso sustentável da água  
 - EF06CI09: Práticas de preservação ambiental  
 - EF09CI10: Impactos socioambientais do desperdício  
-- ... e mais!
+
 
 </details>
 
@@ -139,8 +139,8 @@ Também abrange habilidades específicas de **Matemática**, **Ciências** e **T
 
 - EF06TEC01: Decomposição de problemas  
 - EF09TEC04: Criação de algoritmos  
-- EMTEC03: Programação aplicada à vida real  
-- ... e mais!
+- EMTEC03: Programação aplicada à vida real
+- 
 
 </details>
 
