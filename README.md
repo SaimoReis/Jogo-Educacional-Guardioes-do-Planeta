@@ -1,29 +1,35 @@
-# 🃏 Projeto Didático: Jogo de Cartas Socioambiental
+# 🃏 Jogo Educacional: Guardiões do Planeta
 
-🎓 **Curso:** Desenvolvimento de Sistemas para Web  
-🏫 **Instituição:** Instituto Federal de Brasília – IFB  
-🕒 **Turno:** Vespertino  
-📅 **Ano/Série:** Ensino Técnico  
 
-👥 **Alunos:**  
+🎓 **Disciplina:** Produção de Material diático  
+🏫 **Instituição:** Universidade de Brasília - UnB   
+
+👥 **Autores:**  
 - Saimo Nascimento dos Reis — 222012783  
 - Shayla Chrystin dos Santos Silva - 212004957
 
+👥 **Co-autores:**
+- Kadidja Valéria Reginaldo de Oliveira
+
+👥 **Orientadores:**
+- Maria de Fátima Ramos Brandão
+- Jonathan Rosa Moreira
+  
 ---
 
 ## 🌍 Sobre o Projeto
 
 > “Aprender pode (e deve!) ser divertido.”  
-Este projeto nasceu com o objetivo de unir **educação, tecnologia e sustentabilidade** em um só lugar — na mesa de jogo!
+Este projeto nasceu com o objetivo de unir **educação, computação, matemática e questões ambientais** em um só lugar — na mesa de jogo!
 
 Criamos um **jogo de cartas didático** para ajudar estudantes a entenderem **problemas ambientais** enquanto aplicam **fundamentos computacionais** e **conceitos matemáticos**. A proposta é trazer desafios reais para dentro da sala de aula, promovendo **pensamento lógico**, **programação em Python** e **conscientização ambiental**.
 
 🎯 **Temas abordados no jogo:**  
-- Incêndios florestais  
-- Aquecimento global  
+- Desmatamento  
+- Desperdício alimentar  
 - Desperdício de água  
 - Falta de saneamento básico  
-- E muito mais...
+
 
 ---
 
@@ -88,16 +94,7 @@ Também abrange habilidades específicas de **Matemática**, **Ciências** e **T
 
 ---
 
-## 💰 Orçamento
 
-| Item                          | Valor (R$) |
-|-------------------------------|------------|
-| Assinatura do Canva Pro       | 17,00      |
-| Impressão das cartas          | 100,00     |
-| Impressão do painel temático  | 80,00      |
-| **Total**                     | **197,00** |
-
----
 
 ## 🔗 Referências
 
